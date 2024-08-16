@@ -51,5 +51,7 @@ printf("hola mundo");
 
 <!-- GITHUB MARKDOWN -->
 * [x] Task 1
-* [] Task 2
+* [ ] Task 2
 * [x] Task 3
+
+@JesusAmador5051 :neckbeard: :bowtie:

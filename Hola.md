@@ -37,7 +37,7 @@ ___
 `console.log('hello world')`
 
 ```c
-printf("hola mundo");
+printf("hola mundote");
 ```
 
 | Tabla  | 1    | 2     |
